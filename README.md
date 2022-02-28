@@ -4,7 +4,6 @@ This repository contains the source code and data for reproducibility of:
 
 *Secondary structure prediction of long non-coding RNA: 
 review and experimental comparison of existing approaches*,
-
 L.A. Bugnon, A.A. Edera, S. Prochetto, M. Gerard, J. Raad, 
 E. Fenoy, M. Rubiolo, U. Chorostecki, T. Gabaldón, F. Ariel,
 L. Di Persia, D.H. Milone & G. Stegmayer, 2022 (under review).
